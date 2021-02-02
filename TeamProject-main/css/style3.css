@@ -94,33 +94,18 @@
     outline: 1px solid blue;
   }
 
-  .map > h2 {
 
-
-  }
   .map > .mapin {
     position: absolute;
-    top: 80px;
+    top: 100px;
     color: #fff;
-
+    left: 11%;
     box-sizing: border-box;
   }
-  .mt {
-    padding-bottom: 50px;
-    padding-top: 50px;
 
 
 
-  }
 
-  .cs {
-    color: lightslategray;
-
-
-  }
-  .white {
-    color: #fff;
-  }
 
 
 
