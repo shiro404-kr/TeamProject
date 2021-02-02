@@ -90,6 +90,9 @@
     text-align: left;
     font-weight: 500;
   }
+  #gnb > ul > li:hover {
+    outline: 1px solid blue;
+  }
 
   .cs {
     color: lightslategray;
